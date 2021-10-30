@@ -9,7 +9,7 @@ With the pig game, be the first to reach 100 points. Roll the dice as much as yo
 ## Built with
 
 - Html, CSS, VanillaJS
-- Deployed with [netlify.com](https://www.netlify.com/)
+- Deployed with [Netlify](https://www.netlify.com/)
 
 ## License
 
